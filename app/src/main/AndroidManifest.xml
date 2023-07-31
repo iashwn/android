@@ -17,7 +17,7 @@
             android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name"
-            android:theme="@style/Theme.SimpleActivity">
+            android:theme="@style/Theme.RLDemo">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
